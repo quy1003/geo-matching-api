@@ -1,0 +1,10 @@
+# Compiled binaries
+/geo-matching-api
+/server
+
+# Test cache
+*.test
+
+# Go workspace
+go.work
+go.work.sum
